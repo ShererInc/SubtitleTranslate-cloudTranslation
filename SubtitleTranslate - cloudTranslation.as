@@ -78,17 +78,17 @@ string GetDesc()
 
 string GetLoginTitle()
 {
-	return "Set prefix of Cloud Translation";
+	return "{$CP936=设置翻译后内容的前缀$}{$CP0=Set prefix of Translation$}";
 }
 
 string GetLoginDesc()
 {
-	return "Set prefix of Cloud Translation";
+	return "{$CP936=设置翻译后内容的前缀$}{$CP0=Set prefix of Translation$}";
 }
 
 string GetUserText()
 {
-	return "Prefix:";
+	return "{$CP936=前缀：$}{$CP0=Prefix:$}";
 }
 
 string GetPasswordText()
