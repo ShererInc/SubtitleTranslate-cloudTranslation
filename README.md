@@ -4,7 +4,7 @@
 
 ## 安装
 
-1. [下载](https://gitee.com/Sherer/subtitle-translate-cloud-translation/repository/archive/master.zip)
+1. [下载](https://github.com/ShererInc/SubtitleTranslate-cloudTranslation/archive/refs/heads/master.zip)
 2. 解压缩
 3. 复制文件 `SubtitleTranslate - cloudTranslation.as` 和 `SubtitleTranslate - cloudTranslation.ico` 到 `C:\Program Files\DAUM\PotPlayer\Extention\Subtitle\Translate` 文件夹
 4. 运行/重启 PotPlayer
